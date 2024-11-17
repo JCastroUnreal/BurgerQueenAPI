@@ -1,0 +1,6 @@
+@BurgerQueenAPI_HostAddress = http://localhost:5191
+
+GET {{BurgerQueenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
